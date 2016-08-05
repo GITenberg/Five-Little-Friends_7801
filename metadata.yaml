@@ -1,0 +1,23 @@
+_repo: Five-Little-Friends_7801
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, Sherred Willcox
+    gutenberg_agent_id: '2533'
+    url: http://www.gutenberg.org/2009/agents/2533
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7801'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- GITenberg
+tableOfContents: The five little friends at school -- The five little friends in vacation.
+title: Five Little Friends
+url: http://www.gutenberg.org/ebooks/7801
